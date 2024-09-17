@@ -1,6 +1,6 @@
 
 # Project Title
-E.N.O.L.A - Your personalized AI assistant
+E.N.O.L.A - our personalized AI assistant
 
 
 ## Project Description
